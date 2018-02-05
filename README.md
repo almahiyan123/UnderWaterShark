@@ -14,3 +14,7 @@ This will make a sample.bas.asm and sample.bas.bin file. The bin file is your bi
 
 For Windows, the command is similar:
 2600basic.bat sample.bas
+
+***GAMEPLAY***
+Move the fish around to avoid black fish. Eat the other fish. Black fish will move towards you from the right side. After collecting 20 fish, game will speed up considerably. 
+Move using arrow keys. Eat with spacebar. 
